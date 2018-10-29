@@ -1,4 +1,6 @@
 Back to menu: https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu
+[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu)
+link:https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu[Back to menu]
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 Provide Faceted Search next to the traditional list of results. For the "Reuters" collection, use the Category information as facet values.
