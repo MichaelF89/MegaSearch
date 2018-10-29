@@ -1,4 +1,4 @@
-[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu)
+[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu.md)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Do one of the following:
