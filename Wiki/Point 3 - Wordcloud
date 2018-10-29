@@ -22,4 +22,4 @@ zijn. Deze woorden zijn al gestemd met de nltk module 'WordNetLemmatizer' en de 
 'stopwords'. Wij hebben gekozen voor Lemmatization boven Porterstemming omdat wij dachten dat het voor een zoekmachine belangrijk is om de 
 juiste termen te kunnen vinden. Bij Porterstemming kunnen verschillende woorden afgestemd worden tot dezelfde stam, terwijl dit bij 
 Lemmatization minder vaak het geval is. De stopwoorden halen wij er uit omdat deze weinig invloed zullen hebben op de resultaten van een 
-zoekquery.
+zoekquery. 
