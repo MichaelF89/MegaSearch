@@ -7,20 +7,6 @@ the average precision at 10 for your system based on these 5 queries, and the tw
 
 Describe clearly how you solved differences in judgements. 
 
-Create your queries in the following format:
-<topic number="6"  >
-    <query>kcs</query>
-    <description>Find information on the Kansas City Southern railroad.
-    </description>
-
-</topic>
-<topic number="16"  >
-    <query>arizona game and fish</query>
-    <description>I'm looking for information about fishing and hunting
-    in Arizona.
-    </description>
-</topic>
-
 So, both provide the actual query, and a description of the information need that was behind the query. 
 Give a small set of clear guidelines for judging the results, and let your judges follow these guidelines. 
   It is far more interesting to have difficult queries (both for the search engine and for the judges) than to have queries on which all 
