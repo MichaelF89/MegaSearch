@@ -1,3 +1,6 @@
+[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu)
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Do one of the following:
 
   Represent the hits of a query with a wordcloud of 25-50 informative words. The wordcloud should somehow summarise what the collection has 
@@ -7,6 +10,7 @@ feedback/query expansion).
 
 You can use several techniques to get rid of high frequency, but meaningless words: of course IDF, but also mutual information 
 (see 13.5.1), or of course the technique from the paper by Kaptein et al on wordclouds.
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 Wij hebben ervoor gekozen om elk document met een word-cloud weer te geven. Hiervoor hebben wij gekozen omdat het voor de gebruiker niet 
 heel interessant is om relevante termen te zien die bij hun zoekterm horen. Het is echter wel interessant om per document te kunnen zien 
