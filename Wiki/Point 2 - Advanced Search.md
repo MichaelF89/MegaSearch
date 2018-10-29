@@ -1,7 +1,0 @@
-[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu.md)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Advanced search. Let a user be able to search in several fields, also in several fields simulteanously. Queries like "return articles with 
-a title about XXX and which are about YYY in the period ZZZ" should be possible.
-
-------------------------------------------------------------------------------------------------------------------------------------------
