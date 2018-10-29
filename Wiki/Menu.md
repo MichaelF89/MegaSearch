@@ -10,6 +10,8 @@ Links naar alle documenten op deze wiki:
 ------------------------------------------------------------------------------------------------------------------------------------------
 Welkom op de homepagina van de Wiki van het groepje MegaSearch! Voor ons eindproject voor het UvA vak Zoekmachines hebben wij een zoekmachine gebouwd voor de Reuters collectie. Deze collectie bevat 21578 nieuwsberichten die zijn geplaatst op de website van de nieuwsorganisatie Reuters. Op deze wiki kan er informatie gevonden worden over hoe wij de zes requirements van het project hebben verwerkt in onze uiteindelijke zoekmachine.
 
+
+
 Max Petra - 11028335
 
 Menno Lont - 11061200
