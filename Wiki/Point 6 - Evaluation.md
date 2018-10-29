@@ -1,4 +1,4 @@
-[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu)
+[Back to menu](https://github.com/MichaelF89/MegaSearch/blob/master/Wiki/Menu.md)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Evaluate your results Let 2 persons assess the relevancy of the top 10 documents for 5 different queries. Compute Cohen's kappa. Determine 
